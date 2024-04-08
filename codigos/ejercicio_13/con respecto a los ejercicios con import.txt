@@ -1,0 +1,1 @@
+habia echo el ejercicio con un import ya que processing tiene sus limitaciones, se que no lo pedia el ejercicio pero lo deje por si servia para futuras referencias
